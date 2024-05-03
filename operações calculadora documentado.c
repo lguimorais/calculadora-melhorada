@@ -47,7 +47,7 @@ void multiplicacao()
 /* Funcao para realizar a operacao de divisao */
 void divisao()
 {
-    if (valor2 != 0)
+    if (valor2,valor1 != 0)
     {
         resultado = valor1 / valor2;
     }
