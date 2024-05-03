@@ -61,7 +61,7 @@ void divisao()
 /* Funcao para exibir o resultado da operacao */
 void saida()
 {
-    if (valor2 != 0)
+    if (valor2,valor1 != 0)
     {
         printf("O resultado da operacao e: %d\n", resultado);
     }
